@@ -1,13 +1,6 @@
 # GuideMe
 GuideMe full-stack travel guide platform
 
-
-
-# GuideMe
-
-## Project Overview
-GuideMe is a web application designed to connect travelers with local guides and help users explore destinations.
-
 ## Technologies Used
 - Frontend: React.js, HTML, CSS, JavaScript
 - Backend: Add your actual backend technology, if implemented
